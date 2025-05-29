@@ -23,9 +23,9 @@ A motivação para esse estudo surgiu do interesse em compreender como essas tra
 - **Fonte:**  
   [Kaggle - NBA Player Stats](https://www.kaggle.com/datasets/drgilermo/nba-players-stats/data)
   
-  [Basketball Reference - Jogadores]([https://www.basketball-reference.com/players/])
+  [Basketball Reference - Jogadores](https://www.basketball-reference.com/players/)
   
-  [Basketball Reference - Times]((https://www.basketball-reference.com/teams/))
+  [Basketball Reference - Times](https://www.basketball-reference.com/teams/)
   
   [Basketball Reference - Temporadas](https://www.basketball-reference.com/leagues/)
   
