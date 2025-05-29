@@ -23,13 +23,13 @@ A motivação para esse estudo surgiu do interesse em compreender como essas tra
 - **Fonte:**  
   [Kaggle - NBA Player Stats](https://www.kaggle.com/datasets/drgilermo/nba-players-stats/data)
   
-  https://www.basketball-reference.com/players/
+  [Basketball Reference - Jogadores]([https://www.basketball-reference.com/players/])
   
-  https://www.basketball-reference.com/teams/
+  [Basketball Reference - Times]((https://www.basketball-reference.com/teams/))
   
-  https://www.basketball-reference.com/leagues/
+  [Basketball Reference - Temporadas](https://www.basketball-reference.com/leagues/)
   
-  https://www.basketball-reference.com/leaders/
+  [Basketball Reference - Líderes](https://www.basketball-reference.com/leaders/)
   
 
 - **Descrição breve:**  
