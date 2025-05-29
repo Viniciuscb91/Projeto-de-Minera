@@ -21,7 +21,7 @@ A motivação para esse estudo surgiu do interesse em compreender como essas tra
 
 
 - **Fonte:**  
-  [Kaggle - NBA Player Stats](url)
+  [Kaggle - NBA Player Stats](https://www.kaggle.com/datasets/drgilermo/nba-players-stats/data)
   
   https://www.basketball-reference.com/players/
   
@@ -30,8 +30,6 @@ A motivação para esse estudo surgiu do interesse em compreender como essas tra
   https://www.basketball-reference.com/leagues/
   
   https://www.basketball-reference.com/leaders/
-  
-  https://www.kaggle.com/datasets/drgilermo/nba-players-stats/data
   
 
 - **Descrição breve:**  
