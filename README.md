@@ -33,7 +33,6 @@ A motivação para esse estudo surgiu do interesse em compreender como essas tra
   
 
 - **Descrição breve:**  
-  Explique o que representa esse conjunto de dados, qual o escopo (temporal, geográfico, etc.), quais as principais variáveis presentes e o motivo pelo qual ele foi escolhido.
   
   O primeiro conjunto de dados contém estatísticas por temporada de todos os jogadores da NBA por volta dos anos 1950 até 2022. As variáveis incluem pontos por jogo (PPG), assistências (APG), rebotes (RPG), arremessos tentados e convertidos (FG, 3P, FT), entre outras métricas relevantes. O escopo é histórico e permite uma análise temporal das tendências da liga ao longo de mais de 70 anos.
 
