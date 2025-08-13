@@ -59,9 +59,12 @@ A motivação para esse estudo surgiu do interesse em compreender como essas tra
 Indique quais técnicas estatísticas serão utilizadas (análise exploratória, testes, correlações, modelos, etc.).
 
 
-## 🛠️ Ferramentas Utilizadas  
-*A preencher na próxima etapa.*  
+## 🛠️ Ferramentas Utilizadas    
 Quais linguagens, bibliotecas ou softwares serão utilizados no projeto.
+- Linguagem utilizada: Python
+- Bibliotecas utilizadas: Pandas, Seaborn, Matplotlib, Numpy, Requests, StringIO, Combinations, tensorflow, sklearn
+- Ambiente utilizado: Google Colab
+
 
 
 ## 📈 Resultados  
