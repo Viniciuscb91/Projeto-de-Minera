@@ -87,7 +87,8 @@ Abrangência dos Dados: Embora os datasets sejam extensos, métricas mais detalh
 Foco na Temporada Regular: A análise se concentrou principalmente nos dados da temporada regular, sem uma comparação aprofundada com o desempenho nos playoffs, onde a dinâmica do jogo pode mudar.
 Variáveis Explicativas: A análise de causalidade (se a mudança se deve a táticas de time ou jogadores específicos) foi explorada de forma qualitativa com base nas tendências, mas não quantificada diretamente através de modelos causais.
 
-Análise de Outliers: Investigar os outliers estatísticos em diferentes décadas para identificar jogadores excepcionais e analisar como suas métricas se comparariam em outras eras da NBA.
-Análise de Métricas Defensivas: Realizar uma análise similar focada em métricas defensivas para entender a evolução desse aspecto do jogo.
-Modelos de Classificação: Desenvolver modelos para classificar jogadores (por exemplo, em categorias como "All-Star", "Role Player") ou prever resultados de jogos com base nas estatísticas.
+Trabalhos Futuros:
+- Análise de Outliers: Investigar os outliers estatísticos em diferentes décadas para identificar jogadores excepcionais e analisar como suas métricas se comparariam em outras eras da NBA.
+- Análise de Métricas Defensivas: Realizar uma análise similar focada em métricas defensivas para entender a evolução desse aspecto do jogo.
+- Modelos de Classificação: Desenvolver modelos para classificar jogadores (por exemplo, em categorias como "All-Star", "Role Player") ou prever resultados de jogos com base nas estatísticas.
 ---
